@@ -20,3 +20,4 @@ Qu'est-ce qu'on entend par **FlexBox** ?
 ### Quels sont les navigateurs qui supportent le FlexBox?
 
 Pour de plus ample informations, visitez le site [Can I use](http://caniuse.com/#feat=flexbox)
+
